@@ -1,0 +1,959 @@
+ds,temperature,condition,humidity
+2019-06-01,22.6,Sunny,68.0
+2019-06-02,24.8,Sunny,62.0
+2019-06-03,25.1,Sunny,63.0
+2019-06-04,25.5,Moderate or heavy rain shower,65.0
+2019-06-05,25.5,Sunny,66.0
+2019-06-06,22.2,Thundery outbreaks possible,77.0
+2019-06-07,19.7,Cloudy,81.0
+2019-06-08,19.3,Sunny,63.0
+2019-06-10,25.8,Thundery outbreaks possible,71.0
+2019-06-11,26.7,Thundery outbreaks possible,69.0
+2019-06-12,26.8,Sunny,64.0
+2019-06-13,21.4,Cloudy,71.0
+2019-06-14,25.9,Sunny,67.0
+2019-06-15,27.2,Sunny,62.0
+2019-06-16,18.2,Light rain shower,77.0
+2019-06-17,21.5,Partly cloudy,67.0
+2019-06-18,22.9,Sunny,68.0
+2019-06-19,24.5,Patchy rain possible,66.0
+2019-06-20,24.8,Thundery outbreaks possible,64.0
+2019-06-21,22.5,Patchy rain possible,68.0
+2019-06-22,21.2,Moderate or heavy rain shower,73.0
+2019-06-23,21.6,Patchy rain possible,70.0
+2019-06-24,23.4,Sunny,62.0
+2019-06-25,26.5,Sunny,67.0
+2019-06-26,31.1,Sunny,61.0
+2019-06-27,23.8,Sunny,62.0
+2019-06-28,20.8,Sunny,63.0
+2019-06-29,25.9,Sunny,56.0
+2019-06-30,28.8,Sunny,52.0
+2019-07-01,28.1,Patchy light rain with thunder,61.0
+2019-07-02,21.1,Partly cloudy,63.0
+2019-07-03,18.8,Sunny,51.0
+2019-07-04,20.4,Sunny,54.0
+2019-07-05,22.0,Partly cloudy,51.0
+2019-07-06,25.0,Sunny,56.0
+2019-07-07,17.2,Light rain shower,71.0
+2019-07-08,16.4,Partly cloudy,60.0
+2019-07-09,15.7,Patchy rain possible,62.0
+2019-07-10,17.4,Sunny,63.0
+2019-07-11,18.7,Partly cloudy,67.0
+2019-07-12,19.7,Moderate or heavy rain shower,74.0
+2019-07-13,18.8,Moderate or heavy rain shower,74.0
+2019-07-14,18.6,Patchy rain possible,74.0
+2019-07-15,18.7,Partly cloudy,71.0
+2019-07-16,18.2,Cloudy,68.0
+2019-07-17,19.1,Partly cloudy,67.0
+2019-07-18,22.8,Partly cloudy,59.0
+2019-07-19,22.3,Light rain shower,66.0
+2019-07-20,26.0,Partly cloudy,63.0
+2019-07-21,23.6,Sunny,69.0
+2019-07-22,24.8,Partly cloudy,58.0
+2019-07-23,26.4,Sunny,55.0
+2019-07-24,29.1,Sunny,55.0
+2019-07-25,30.6,Sunny,47.0
+2019-07-26,28.0,Sunny,53.0
+2019-07-27,24.2,Light rain shower,66.0
+2019-07-28,22.8,Light rain shower,76.0
+2019-07-29,25.5,Moderate or heavy rain shower,73.0
+2019-07-30,24.4,Moderate or heavy rain shower,75.0
+2019-07-31,23.5,Moderate or heavy rain shower,71.0
+2019-08-01,22.4,Partly cloudy,61.0
+2019-08-02,22.8,Partly cloudy,58.0
+2019-08-03,21.3,Moderate or heavy rain shower,63.0
+2019-08-04,22.1,Partly cloudy,60.0
+2019-08-05,22.0,Sunny,67.0
+2019-08-06,24.3,Patchy rain possible,68.0
+2019-08-07,22.4,Patchy rain possible,74.0
+2019-08-08,21.5,Sunny,69.0
+2019-08-09,24.7,Partly cloudy,61.0
+2019-08-10,20.5,Moderate rain at times,81.0
+2019-08-11,24.0,Partly cloudy,65.0
+2019-08-12,18.2,Patchy light rain,82.0
+2019-08-13,20.0,Partly cloudy,66.0
+2019-08-14,19.1,Patchy rain possible,53.0
+2019-08-15,19.0,Partly cloudy,66.0
+2019-08-16,19.4,Sunny,69.0
+2019-08-17,20.8,Sunny,63.0
+2019-08-18,24.9,Sunny,64.0
+2019-08-19,21.0,Cloudy,74.0
+2019-08-20,21.6,Light rain shower,75.0
+2019-08-21,18.6,Sunny,68.0
+2019-08-22,20.0,Sunny,66.0
+2019-08-23,22.2,Sunny,65.0
+2019-08-24,23.9,Thundery outbreaks possible,70.0
+2019-08-25,24.4,Patchy rain possible,67.0
+2019-08-26,25.3,Patchy rain possible,64.0
+2019-08-27,25.0,Sunny,64.0
+2019-08-28,26.3,Sunny,65.0
+2019-08-29,25.7,Partly cloudy,62.0
+2019-08-30,26.4,Sunny,62.0
+2019-08-31,26.1,Sunny,59.0
+2019-09-01,26.2,Patchy light rain with thunder,61.0
+2019-09-02,17.0,Moderate rain,68.0
+2019-09-03,18.7,Sunny,52.0
+2019-09-04,20.3,Sunny,56.0
+2019-09-05,19.6,Partly cloudy,60.0
+2019-09-06,16.2,Partly cloudy,57.0
+2019-09-07,13.1,Moderate rain,81.0
+2019-09-08,15.6,Partly cloudy,75.0
+2019-09-09,13.2,Light rain,85.0
+2019-09-10,16.1,Cloudy,67.0
+2019-09-11,18.5,Partly cloudy,64.0
+2019-09-12,18.2,Cloudy,66.0
+2019-09-13,19.6,Overcast,76.0
+2019-09-14,17.6,Partly cloudy,62.0
+2019-09-15,19.9,Sunny,67.0
+2019-09-16,18.1,Overcast,70.0
+2019-09-17,14.7,Sunny,68.0
+2019-09-18,11.9,Partly cloudy,63.0
+2019-09-19,11.2,Partly cloudy,64.0
+2019-09-20,13.1,Sunny,62.0
+2019-09-21,15.5,Sunny,60.0
+2019-09-22,15.5,Sunny,56.0
+2019-09-23,16.3,Partly cloudy,63.0
+2019-09-24,17.2,Partly cloudy,77.0
+2019-09-25,16.3,Light rain shower,74.0
+2019-09-26,16.3,Light rain shower,76.0
+2019-09-27,17.4,Cloudy,81.0
+2019-09-28,15.7,Partly cloudy,73.0
+2019-09-29,17.1,Sunny,66.0
+2019-09-30,15.2,Light rain shower,67.0
+2019-10-01,16.9,Partly cloudy,70.0
+2019-10-02,13.2,Light rain shower,77.0
+2019-10-03,9.7,Light rain shower,75.0
+2019-10-04,10.5,Cloudy,75.0
+2019-10-05,9.3,Light rain,86.0
+2019-10-06,8.4,Partly cloudy,70.0
+2019-10-07,9.3,Sunny,56.0
+2019-10-08,9.3,Light rain,80.0
+2019-10-09,12.5,Cloudy,79.0
+2019-10-10,10.7,Patchy light rain,76.0
+2019-10-11,12.5,Sunny,73.0
+2019-10-12,16.4,Sunny,62.0
+2019-10-13,18.1,Sunny,61.0
+2019-10-14,17.8,Sunny,67.0
+2019-10-15,16.2,Sunny,81.0
+2019-10-16,13.3,Sunny,71.0
+2019-10-17,14.9,Partly cloudy,61.0
+2019-10-18,15.9,Sunny,68.0
+2019-10-19,14.8,Cloudy,75.0
+2019-10-20,14.8,Sunny,80.0
+2019-10-21,16.8,Sunny,77.0
+2019-10-22,16.1,Sunny,78.0
+2019-10-23,15.5,Overcast,84.0
+2019-10-24,16.7,Sunny,74.0
+2019-10-25,14.9,Partly cloudy,76.0
+2019-10-26,15.9,Sunny,73.0
+2019-10-27,15.2,Sunny,70.0
+2019-10-28,9.6,Sunny,64.0
+2019-10-29,7.1,Overcast,75.0
+2019-10-30,5.2,Sunny,71.0
+2019-10-31,4.3,Sunny,65.0
+2019-11-01,5.1,Sunny,75.0
+2019-11-02,9.3,Patchy light rain,82.0
+2019-11-03,9.7,Overcast,85.0
+2019-11-04,11.0,Sunny,78.0
+2019-11-05,9.6,Overcast,77.0
+2019-11-06,8.0,Cloudy,79.0
+2019-11-07,8.0,Sunny,78.0
+2019-11-08,8.6,Overcast,82.0
+2019-11-09,6.3,Moderate rain,83.0
+2019-11-10,5.3,Partly cloudy,80.0
+2019-11-11,4.0,Sunny,77.0
+2019-11-12,4.6,Overcast,86.0
+2019-11-13,3.3,Light sleet,92.0
+2019-11-14,4.5,Sunny,79.0
+2019-11-15,8.9,Sunny,79.0
+2019-11-16,7.4,Partly cloudy,77.0
+2019-11-17,10.0,Partly cloudy,78.0
+2019-11-18,8.8,Overcast,80.0
+2019-11-19,4.8,Partly cloudy,74.0
+2019-11-20,6.9,Overcast,89.0
+2019-11-21,8.5,Light rain,92.0
+2019-11-22,7.6,Overcast,87.0
+2019-11-23,7.3,Partly cloudy,81.0
+2019-11-24,6.8,Cloudy,84.0
+2019-11-25,5.9,Overcast,87.0
+2019-11-26,6.2,Overcast,80.0
+2019-11-27,5.7,Overcast,86.0
+2019-11-28,8.5,Overcast,79.0
+2019-11-29,6.5,Light rain,73.0
+2019-11-30,2.4,Patchy sleet possible,74.0
+2019-12-01,1.5,Overcast,77.0
+2019-12-02,1.6,Patchy light snow,78.0
+2019-12-03,1.8,Moderate or heavy snow showers,83.0
+2019-12-04,1.8,Sunny,76.0
+2019-12-05,1.1,Partly cloudy,77.0
+2019-12-06,1.8,Sunny,63.0
+2019-12-07,6.0,Overcast,75.0
+2019-12-08,6.7,Sunny,79.0
+2019-12-09,6.7,Overcast,77.0
+2019-12-10,3.2,Sunny,75.0
+2019-12-11,1.2,Sunny,64.0
+2019-12-12,1.0,Light snow,78.0
+2019-12-13,0.9,Partly cloudy,85.0
+2019-12-14,4.1,Light rain,80.0
+2019-12-15,7.5,Light rain,81.0
+2019-12-16,7.3,Sunny,81.0
+2019-12-17,5.6,Cloudy,87.0
+2019-12-18,8.8,Cloudy,82.0
+2019-12-19,6.3,Overcast,89.0
+2019-12-20,8.7,Sunny,84.0
+2019-12-21,6.6,Cloudy,86.0
+2019-12-22,4.1,Partly cloudy,85.0
+2019-12-23,6.1,Overcast,77.0
+2019-12-24,5.0,Sunny,79.0
+2019-12-25,5.3,Light rain,86.0
+2019-12-26,3.9,Patchy rain possible,80.0
+2019-12-27,1.8,Overcast,79.0
+2019-12-28,-0.4,Moderate or heavy snow showers,79.0
+2019-12-29,-1.0,Sunny,75.0
+2019-12-30,1.2,Partly cloudy,53.0
+2019-12-31,2.8,Partly cloudy,63.0
+2020-01-01,2.3,Partly cloudy,81.0
+2020-01-02,3.6,Sunny,57.0
+2020-01-03,3.4,Partly cloudy,75.0
+2020-01-04,3.3,Overcast,80.0
+2020-01-05,1.3,Partly cloudy,76.0
+2020-01-06,1.5,Partly cloudy,80.0
+2020-01-07,1.2,Partly cloudy,80.0
+2020-01-08,2.5,Partly cloudy,81.0
+2020-01-09,4.6,Patchy rain possible,88.0
+2020-01-10,5.8,Partly cloudy,77.0
+2020-01-11,3.3,Overcast,82.0
+2020-01-12,1.9,Cloudy,78.0
+2020-01-13,3.2,Partly cloudy,83.0
+2020-01-14,2.8,Cloudy,74.0
+2020-01-15,2.3,Partly cloudy,72.0
+2020-01-16,4.3,Partly cloudy,86.0
+2020-01-17,3.3,Partly cloudy,85.0
+2020-01-18,3.5,Partly cloudy,77.0
+2020-01-19,1.7,Heavy snow,90.0
+2020-01-20,2.2,Cloudy,82.0
+2020-01-21,2.7,Partly cloudy,81.0
+2020-01-22,2.4,Partly cloudy,70.0
+2020-01-23,2.6,Partly cloudy,80.0
+2020-01-24,0.5,Cloudy,79.0
+2020-01-25,1.9,Partly cloudy,75.0
+2020-01-26,1.4,Partly cloudy,80.0
+2020-01-27,3.8,Overcast,85.0
+2020-01-28,3.7,Overcast,76.0
+2020-01-29,2.4,Partly cloudy,68.0
+2020-01-30,3.9,Patchy rain possible,78.0
+2020-01-31,10.6,Light rain shower,78.0
+2020-02-01,10.4,Cloudy,82.0
+2020-02-02,7.8,Cloudy,71.0
+2020-02-03,8.3,Light rain,75.0
+2020-02-04,3.7,Heavy snow,77.0
+2020-02-05,1.3,Patchy heavy snow,74.0
+2020-02-06,2.2,Partly cloudy,69.0
+2020-02-07,3.9,Cloudy,80.0
+2020-02-08,2.8,Partly cloudy,82.0
+2020-02-09,4.8,Partly cloudy,72.0
+2020-02-10,8.1,Moderate rain,61.0
+2020-02-11,4.0,Partly cloudy,53.0
+2020-02-12,2.6,Overcast,60.0
+2020-02-13,2.9,Partly cloudy,72.0
+2020-02-14,5.8,Patchy rain possible,82.0
+2020-02-15,4.7,Partly cloudy,80.0
+2020-02-16,7.4,Partly cloudy,67.0
+2020-02-17,8.9,Cloudy,71.0
+2020-02-18,6.4,Cloudy,66.0
+2020-02-19,3.7,Overcast,73.0
+2020-02-20,3.7,Light snow,80.0
+2020-02-21,3.9,Cloudy,65.0
+2020-02-22,6.9,Partly cloudy,61.0
+2020-02-23,8.5,Light drizzle,71.0
+2020-02-24,4.9,Partly cloudy,64.0
+2020-02-25,8.7,Overcast,76.0
+2020-02-26,4.3,Partly cloudy,65.0
+2020-02-27,3.0,Cloudy,65.0
+2020-02-28,5.3,Patchy rain possible,65.0
+2020-02-29,3.1,Light drizzle,75.0
+2020-03-01,6.2,Light drizzle,78.0
+2020-03-02,6.3,Partly cloudy,68.0
+2020-03-03,5.6,Overcast,71.0
+2020-03-04,3.9,Cloudy,72.0
+2020-03-05,5.4,Partly cloudy,67.0
+2020-03-06,6.2,Overcast,77.0
+2020-03-07,4.4,Patchy rain possible,76.0
+2020-03-08,5.2,Partly cloudy,70.0
+2020-03-09,6.2,Light drizzle,72.0
+2020-03-10,5.3,Partly cloudy,79.0
+2020-03-11,11.6,Light drizzle,79.0
+2020-03-12,11.8,Patchy rain possible,74.0
+2020-03-13,6.6,Partly cloudy,62.0
+2020-03-14,3.3,Partly cloudy,61.0
+2020-03-15,5.7,Partly cloudy,45.0
+2020-03-16,7.6,Cloudy,51.0
+2020-03-17,8.5,Overcast,77.0
+2020-03-18,10.8,Partly cloudy,76.0
+2020-03-19,12.6,Partly cloudy,72.0
+2020-03-20,13.2,Partly cloudy,66.0
+2020-03-21,3.5,Heavy snow,77.0
+2020-03-22,0.7,Overcast,50.0
+2020-03-23,0.8,Sunny,43.0
+2020-03-24,1.1,Sunny,44.0
+2020-03-25,2.2,Sunny,47.0
+2020-03-26,5.2,Partly cloudy,54.0
+2020-03-27,9.3,Partly cloudy,65.0
+2020-03-28,11.0,Partly cloudy,65.0
+2020-03-29,4.0,Patchy rain possible,75.0
+2020-03-30,0.6,Partly cloudy,53.0
+2020-03-31,1.0,Partly cloudy,59.0
+2020-04-01,5.2,Partly cloudy,47.0
+2020-04-02,6.9,Partly cloudy,50.0
+2020-04-03,6.0,Overcast,69.0
+2020-04-04,7.0,Overcast,67.0
+2020-04-05,10.5,Sunny,62.0
+2020-04-06,12.8,Sunny,58.0
+2020-04-07,12.7,Partly cloudy,58.0
+2020-04-08,14.2,Sunny,49.0
+2020-04-09,15.0,Sunny,59.0
+2020-04-10,11.9,Partly cloudy,63.0
+2020-04-11,12.6,Partly cloudy,53.0
+2020-04-12,15.7,Partly cloudy,54.0
+2020-04-13,11.0,Patchy rain possible,64.0
+2020-04-14,4.7,Partly cloudy,52.0
+2020-04-15,9.5,Partly cloudy,54.0
+2020-04-16,14.9,Partly cloudy,56.0
+2020-04-17,14.1,Partly cloudy,64.0
+2020-04-18,15.2,Partly cloudy,62.0
+2020-04-19,11.9,Partly cloudy,51.0
+2020-04-20,9.0,Sunny,57.0
+2020-04-21,10.5,Sunny,55.0
+2020-04-22,11.2,Sunny,59.0
+2020-04-23,12.9,Sunny,62.0
+2020-04-24,14.3,Partly cloudy,63.0
+2020-04-25,10.0,Cloudy,65.0
+2020-04-26,13.4,Partly cloudy,60.0
+2020-04-27,15.8,Partly cloudy,56.0
+2020-04-28,17.8,Partly cloudy,67.0
+2020-04-29,14.5,Light rain,76.0
+2020-04-30,14.0,Patchy rain possible,73.0
+2020-05-01,12.9,Cloudy,71.0
+2020-05-02,11.9,Partly cloudy,66.0
+2020-05-03,12.5,Patchy rain possible,62.0
+2020-05-04,11.3,Cloudy,74.0
+2020-05-05,9.4,Patchy rain possible,63.0
+2020-05-06,9.5,Cloudy,69.0
+2020-05-07,10.9,Partly cloudy,66.0
+2020-05-08,16.4,Partly cloudy,59.0
+2020-05-09,17.7,Partly cloudy,68.0
+2020-05-10,19.9,Partly cloudy,71.0
+2020-05-11,10.3,Patchy rain possible,88.0
+2020-05-12,7.4,Sunny,60.0
+2020-05-13,9.8,Partly cloudy,63.0
+2020-05-14,10.6,Light rain shower,81.0
+2020-05-15,10.6,Overcast,67.0
+2020-05-16,12.1,Cloudy,66.0
+2020-05-17,16.0,Sunny,67.0
+2020-05-18,17.6,Partly cloudy,62.0
+2020-05-19,19.0,Patchy rain possible,67.0
+2020-05-20,15.3,Patchy rain possible,72.0
+2020-05-21,14.8,Partly cloudy,62.0
+2020-05-22,16.1,Partly cloudy,64.0
+2020-05-23,13.3,Patchy rain possible,89.0
+2020-05-24,13.1,Patchy rain possible,73.0
+2020-05-25,12.1,Light rain shower,75.0
+2020-05-26,13.9,Light rain shower,74.0
+2020-05-27,16.3,Partly cloudy,65.0
+2020-05-28,13.3,Patchy light drizzle,70.0
+2020-05-29,12.7,Partly cloudy,71.0
+2020-05-30,12.4,Partly cloudy,64.0
+2020-05-31,13.5,Overcast,69.0
+2020-06-01,16.3,Partly cloudy,69.0
+2020-06-02,16.2,Partly cloudy,65.0
+2020-06-03,18.9,Patchy rain possible,68.0
+2020-06-04,17.1,Light rain shower,79.0
+2020-06-05,13.6,Patchy light rain,80.0
+2020-06-06,14.1,Light drizzle,76.0
+2020-06-07,14.8,Partly cloudy,87.0
+2020-06-08,14.1,Patchy rain possible,80.0
+2020-06-09,14.6,Light drizzle,78.0
+2020-06-10,11.8,Heavy rain,92.0
+2020-06-11,18.0,Patchy rain possible,84.0
+2020-06-12,22.3,Partly cloudy,73.0
+2020-06-13,23.5,Partly cloudy,76.0
+2020-06-14,21.6,Patchy rain possible,80.0
+2020-06-15,19.8,Cloudy,68.0
+2020-06-16,20.1,Patchy rain possible,66.0
+2020-06-17,20.9,Partly cloudy,71.0
+2020-06-18,19.6,Light rain shower,80.0
+2020-06-19,18.4,Partly cloudy,74.0
+2020-06-20,16.9,Patchy rain possible,78.0
+2020-06-21,18.1,Cloudy,71.0
+2020-06-22,19.7,Partly cloudy,71.0
+2020-06-23,19.0,Partly cloudy,66.0
+2020-06-24,15.6,Partly cloudy,74.0
+2020-06-25,19.1,Cloudy,77.0
+2020-06-26,21.5,Patchy rain possible,69.0
+2020-06-27,24.1,Patchy rain possible,67.0
+2020-06-28,25.1,Partly cloudy,68.0
+2020-06-29,17.6,Patchy light rain,80.0
+2020-06-30,19.2,Partly cloudy,64.0
+2020-07-01,23.2,Cloudy,68.0
+2020-07-02,22.9,Light rain shower,72.0
+2020-07-03,20.2,Patchy rain possible,64.0
+2020-07-04,21.2,Partly cloudy,63.0
+2020-07-05,21.1,Cloudy,70.0
+2020-07-06,19.3,Patchy rain possible,71.0
+2020-07-07,15.4,Patchy rain possible,65.0
+2020-07-08,16.0,Overcast,72.0
+2020-07-09,17.7,Light drizzle,84.0
+2020-07-10,23.6,Partly cloudy,70.0
+2020-07-11,15.9,Patchy light rain,65.0
+2020-07-12,18.4,Partly cloudy,59.0
+2020-07-13,19.2,Partly cloudy,57.0
+2020-07-14,19.9,Partly cloudy,63.0
+2020-07-15,19.7,Partly cloudy,69.0
+2020-07-16,17.0,Patchy rain possible,73.0
+2020-07-17,17.5,Partly cloudy,70.0
+2020-07-18,17.8,Patchy rain possible,77.0
+2020-07-19,22.4,Partly cloudy,67.0
+2020-07-20,22.7,Patchy rain possible,69.0
+2020-07-21,19.5,Partly cloudy,70.0
+2020-07-22,19.6,Partly cloudy,56.0
+2020-07-23,20.2,Partly cloudy,60.0
+2020-07-24,21.3,Patchy rain possible,66.0
+2020-07-25,22.8,Partly cloudy,62.0
+2020-07-26,20.8,Light rain shower,73.0
+2020-07-27,23.2,Partly cloudy,64.0
+2020-07-28,26.7,Partly cloudy,59.0
+2020-07-29,21.7,Partly cloudy,60.0
+2020-07-30,22.3,Partly cloudy,55.0
+2020-07-31,23.5,Partly cloudy,54.0
+2020-08-01,24.0,Partly cloudy,54.0
+2020-08-02,22.3,Light rain shower,70.0
+2020-08-03,16.3,Moderate rain,84.0
+2020-08-04,12.7,Moderate rain,88.0
+2020-08-05,19.7,Partly cloudy,65.0
+2020-08-06,21.5,Partly cloudy,65.0
+2020-08-07,25.3,Partly cloudy,68.0
+2020-08-08,26.5,Partly cloudy,59.0
+2020-08-09,26.5,Partly cloudy,59.0
+2020-08-10,26.4,Patchy rain possible,63.0
+2020-08-11,25.0,Partly cloudy,67.0
+2020-08-12,25.1,Partly cloudy,64.0
+2020-08-13,26.3,Partly cloudy,60.0
+2020-08-14,25.7,Partly cloudy,65.0
+2020-08-15,19.8,Light rain,85.0
+2020-08-16,22.9,Sunny,65.0
+2020-08-17,25.3,Partly cloudy,66.0
+2020-08-18,20.9,Patchy light drizzle,73.0
+2020-08-19,22.1,Partly cloudy,65.0
+2020-08-20,24.4,Partly cloudy,58.0
+2020-08-21,26.2,Partly cloudy,57.0
+2020-08-22,24.8,Light rain shower,69.0
+2020-08-23,21.4,Partly cloudy,63.0
+2020-08-24,19.6,Patchy rain possible,64.0
+2020-08-25,19.6,Partly cloudy,60.0
+2020-08-26,21.2,Partly cloudy,53.0
+2020-08-27,18.5,Partly cloudy,59.0
+2020-08-28,20.0,Partly cloudy,67.0
+2020-08-29,18.0,Cloudy,75.0
+2020-08-30,16.5,Light rain shower,87.0
+2020-08-31,16.2,Light drizzle,79.0
+2020-09-01,14.0,Light rain,82.0
+2020-09-02,15.9,Partly cloudy,62.0
+2020-09-03,17.4,Partly cloudy,61.0
+2020-09-04,20.5,Partly cloudy,62.0
+2020-09-05,20.5,Patchy rain possible,74.0
+2020-09-06,17.4,Overcast,67.0
+2020-09-07,17.1,Partly cloudy,55.0
+2020-09-08,18.8,Partly cloudy,55.0
+2020-09-09,21.2,Partly cloudy,54.0
+2020-09-10,17.4,Patchy rain possible,68.0
+2020-09-11,19.3,Partly cloudy,61.0
+2020-09-12,21.7,Partly cloudy,68.0
+2020-09-13,22.5,Partly cloudy,63.0
+2020-09-14,23.0,Partly cloudy,62.0
+2020-09-15,24.3,Partly cloudy,62.0
+2020-09-16,23.1,Partly cloudy,65.0
+2020-09-17,17.9,Partly cloudy,67.0
+2020-09-18,14.4,Partly cloudy,57.0
+2020-09-19,15.9,Partly cloudy,53.0
+2020-09-20,17.4,Partly cloudy,55.0
+2020-09-21,19.1,Partly cloudy,59.0
+2020-09-22,19.7,Partly cloudy,61.0
+2020-09-23,18.7,Partly cloudy,71.0
+2020-09-24,19.6,Partly cloudy,69.0
+2020-09-25,12.0,Light rain,79.0
+2020-09-26,6.5,Heavy rain,86.0
+2020-09-27,10.4,Patchy rain possible,77.0
+2020-09-28,9.0,Light rain,85.0
+2020-09-29,13.3,Cloudy,77.0
+2020-09-30,13.9,Partly cloudy,76.0
+2020-10-01,15.3,Partly cloudy,70.0
+2020-10-02,14.5,Partly cloudy,79.0
+2020-10-03,20.2,Partly cloudy,64.0
+2020-10-04,14.7,Patchy rain possible,73.0
+2020-10-05,12.1,Overcast,74.0
+2020-10-06,13.1,Cloudy,70.0
+2020-10-07,11.9,Patchy rain possible,72.0
+2020-10-08,11.8,Partly cloudy,75.0
+2020-10-09,13.9,Partly cloudy,79.0
+2020-10-10,11.3,Light rain,82.0
+2020-10-11,9.3,Partly cloudy,68.0
+2020-10-12,9.1,Partly cloudy,64.0
+2020-10-13,6.1,Light drizzle,85.0
+2020-10-14,6.3,Moderate rain,88.0
+2020-10-15,9.8,Overcast,88.0
+2020-10-16,9.2,Cloudy,82.0
+2020-10-17,6.9,Patchy rain possible,80.0
+2020-10-18,7.8,Cloudy,74.0
+2020-10-19,8.5,Overcast,63.0
+2020-10-20,8.9,Partly cloudy,76.0
+2020-10-21,11.3,Partly cloudy,79.0
+2020-10-22,14.2,Partly cloudy,72.0
+2020-10-23,13.6,Cloudy,79.0
+2020-10-24,12.2,Partly cloudy,78.0
+2020-10-25,13.2,Partly cloudy,79.0
+2020-10-26,12.0,Patchy rain possible,84.0
+2020-10-27,9.9,Partly cloudy,75.0
+2020-10-28,8.7,Cloudy,74.0
+2020-10-29,9.5,Light drizzle,77.0
+2020-10-30,11.3,Light drizzle,83.0
+2020-10-31,12.9,Overcast,82.0
+2020-11-01,10.4,Overcast,90.0
+2020-11-02,14.3,Patchy light rain,88.0
+2020-11-03,12.4,Light drizzle,83.0
+2020-11-04,8.9,Partly cloudy,71.0
+2020-11-05,7.6,Partly cloudy,76.0
+2020-11-06,7.9,Partly cloudy,74.0
+2020-11-07,8.3,Partly cloudy,68.0
+2020-11-08,8.3,Sunny,73.0
+2020-11-09,8.9,Partly cloudy,76.0
+2020-11-10,6.8,Partly cloudy,84.0
+2020-11-11,5.5,Overcast,87.0
+2020-11-12,5.8,Cloudy,83.0
+2020-11-13,7.8,Partly cloudy,84.0
+2020-11-14,10.5,Cloudy,77.0
+2020-11-15,8.4,Partly cloudy,82.0
+2020-11-16,8.7,Partly cloudy,78.0
+2020-11-17,8.0,Partly cloudy,81.0
+2020-11-18,8.9,Partly cloudy,78.0
+2020-11-19,8.2,Overcast,75.0
+2020-11-20,3.2,Partly cloudy,68.0
+2020-11-21,2.8,Partly cloudy,74.0
+2020-11-22,3.8,Partly cloudy,63.0
+2020-11-23,5.6,Light drizzle,81.0
+2020-11-24,3.7,Partly cloudy,80.0
+2020-11-25,2.8,Cloudy,83.0
+2020-11-26,3.9,Partly cloudy,78.0
+2020-11-27,2.4,Cloudy,76.0
+2020-11-28,1.8,Partly cloudy,82.0
+2020-11-29,0.6,Partly cloudy,81.0
+2020-11-30,0.9,Cloudy,82.0
+2020-12-01,-0.3,Cloudy,79.0
+2020-12-02,-1.2,Partly cloudy,74.0
+2020-12-03,-1.2,Heavy snow,83.0
+2020-12-04,1.6,Cloudy,84.0
+2020-12-05,5.3,Partly cloudy,80.0
+2020-12-06,9.4,Overcast,75.0
+2020-12-07,7.9,Overcast,78.0
+2020-12-08,4.1,Partly cloudy,81.0
+2020-12-09,4.8,Overcast,81.0
+2020-12-10,5.1,Overcast,82.0
+2020-12-11,4.0,Overcast,77.0
+2020-12-12,2.9,Overcast,82.0
+2020-12-13,4.0,Overcast,85.0
+2020-12-14,3.6,Partly cloudy,88.0
+2020-12-15,1.8,Overcast,84.0
+2020-12-16,3.9,Patchy rain possible,81.0
+2020-12-17,3.2,Partly cloudy,84.0
+2020-12-18,3.5,Partly cloudy,89.0
+2020-12-19,2.6,Overcast,89.0
+2020-12-20,3.7,Cloudy,82.0
+2020-12-21,3.0,Light drizzle,86.0
+2020-12-22,8.1,Patchy light drizzle,86.0
+2020-12-23,10.7,Partly cloudy,86.0
+2020-12-24,7.8,Light rain,77.0
+2020-12-25,2.0,Moderate snow,83.0
+2020-12-26,-0.4,Partly cloudy,72.0
+2020-12-27,-0.8,Cloudy,66.0
+2020-12-28,0.8,Partly cloudy,80.0
+2020-12-29,1.4,Partly cloudy,80.0
+2020-12-30,1.7,Partly cloudy,83.0
+2020-12-31,1.3,Partly cloudy,81.0
+2021-01-01,0.3,Overcast,80.0
+2021-01-02,-0.6,Partly cloudy,86.0
+2021-01-03,2.9,Light drizzle,92.0
+2021-01-04,3.0,Overcast,94.0
+2021-01-05,2.2,Overcast,92.0
+2021-01-06,1.1,Overcast,94.0
+2021-01-07,-0.7,Cloudy,85.0
+2021-01-08,-1.8,Cloudy,87.0
+2021-01-09,-1.5,Cloudy,90.0
+2021-01-10,-2.9,Moderate snow,91.0
+2021-01-11,-4.4,Partly cloudy,88.0
+2021-01-12,-0.0,Heavy snow,86.0
+2021-01-13,-0.5,Patchy light snow,80.0
+2021-01-14,-1.2,Moderate snow,85.0
+2021-01-15,-2.5,Cloudy,86.0
+2021-01-16,-6.3,Overcast,88.0
+2021-01-17,-6.2,Partly cloudy,89.0
+2021-01-18,-2.0,Heavy snow,92.0
+2021-01-19,-0.0,Overcast,89.0
+2021-01-20,2.5,Partly cloudy,79.0
+2021-01-21,1.1,Cloudy,86.0
+2021-01-22,2.9,Cloudy,84.0
+2021-01-23,1.1,Light sleet,93.0
+2021-01-24,0.4,Moderate snow,83.0
+2021-01-25,-0.6,Partly cloudy,82.0
+2021-01-26,-1.1,Overcast,83.0
+2021-01-27,-1.1,Overcast,85.0
+2021-01-28,1.6,Overcast,93.0
+2021-01-29,2.9,Fog,94.0
+2021-01-30,2.2,Light rain,83.0
+2021-01-31,-1.5,Partly cloudy,75.0
+2021-02-01,-0.6,Partly cloudy,72.0
+2021-02-02,3.3,Overcast,87.0
+2021-02-03,6.7,Partly cloudy,88.0
+2021-02-04,6.2,Partly cloudy,73.0
+2021-02-05,4.5,Overcast,85.0
+2021-02-06,2.2,Overcast,86.0
+2021-02-07,-1.9,Moderate snow,78.0
+2021-02-08,-6.8,Heavy snow,94.0
+2021-02-09,-8.1,Moderate snow,95.0
+2021-02-10,-10.1,Moderate snow,96.0
+2021-02-11,-9.9,Overcast,90.0
+2021-02-12,-9.8,Partly cloudy,93.0
+2021-02-13,-9.6,Partly cloudy,92.0
+2021-02-14,-5.9,Sunny,89.0
+2021-02-15,-6.1,Overcast,79.0
+2021-02-16,0.1,Fog,98.0
+2021-02-17,3.1,Patchy rain possible,96.0
+2021-02-18,2.0,Mist,93.0
+2021-02-19,3.9,Overcast,91.0
+2021-02-20,5.5,Partly cloudy,83.0
+2021-02-21,5.6,Overcast,87.0
+2021-02-22,6.5,Cloudy,82.0
+2021-02-23,8.1,Partly cloudy,77.0
+2021-02-24,12.1,Sunny,67.0
+2021-02-25,12.2,Sunny,71.0
+2021-02-26,9.4,Partly cloudy,75.0
+2021-02-27,3.5,Overcast,78.0
+2021-02-28,4.0,Partly cloudy,76.0
+2021-03-01,6.9,Partly cloudy,78.0
+2021-03-02,9.0,Sunny,70.0
+2021-03-03,8.1,Overcast,71.0
+2021-03-04,9.1,Partly cloudy,73.0
+2021-03-05,1.8,Cloudy,68.0
+2021-03-06,2.9,Sunny,48.0
+2021-03-07,4.4,Sunny,56.0
+2021-03-08,1.8,Overcast,69.0
+2021-03-09,1.3,Cloudy,69.0
+2021-03-10,1.5,Heavy snow,80.0
+2021-03-11,4.5,Light drizzle,82.0
+2021-03-12,6.4,Partly cloudy,66.0
+2021-03-13,6.9,Overcast,70.0
+2021-03-14,5.0,Patchy rain possible,68.0
+2021-03-15,4.0,Cloudy,77.0
+2021-03-16,2.8,Moderate snow,77.0
+2021-03-17,2.2,Moderate or heavy snow showers,81.0
+2021-03-18,2.5,Moderate or heavy snow showers,76.0
+2021-03-19,1.1,Heavy snow,79.0
+2021-03-20,-1.9,Moderate or heavy snow showers,60.0
+2021-03-21,2.0,Patchy light snow,72.0
+2021-03-22,2.2,Cloudy,67.0
+2021-03-23,3.6,Overcast,84.0
+2021-03-24,7.2,Overcast,72.0
+2021-03-25,9.7,Partly cloudy,67.0
+2021-03-26,11.2,Partly cloudy,68.0
+2021-03-27,9.6,Patchy rain possible,63.0
+2021-03-28,11.2,Partly cloudy,63.0
+2021-03-29,10.9,Overcast,66.0
+2021-03-30,15.2,Partly cloudy,59.0
+2021-03-31,17.1,Partly cloudy,58.0
+2021-04-01,16.8,Partly cloudy,60.0
+2021-04-02,6.8,Overcast,72.0
+2021-04-03,2.8,Heavy snow,90.0
+2021-04-04,5.9,Partly cloudy,60.0
+2021-04-05,8.2,Cloudy,71.0
+2021-04-06,1.7,Moderate or heavy snow showers,60.0
+2021-04-07,1.1,Moderate or heavy snow showers,68.0
+2021-04-08,2.7,Moderate or heavy snow showers,66.0
+2021-04-09,6.7,Partly cloudy,65.0
+2021-04-10,10.7,Partly cloudy,67.0
+2021-04-11,10.8,Overcast,72.0
+2021-04-12,6.4,Overcast,86.0
+2021-04-13,2.4,Patchy heavy snow,88.0
+2021-04-14,4.5,Patchy rain possible,59.0
+2021-04-15,4.0,Patchy rain possible,64.0
+2021-04-16,1.3,Moderate or heavy snow showers,99.0
+2021-04-17,3.1,Light snow showers,96.0
+2021-04-18,6.2,Overcast,91.0
+2021-04-19,8.3,Overcast,85.0
+2021-04-20,10.2,Patchy rain possible,70.0
+2021-04-21,11.1,Patchy rain possible,68.0
+2021-04-22,6.6,Overcast,62.0
+2021-04-23,6.0,Cloudy,65.0
+2021-04-24,9.3,Partly cloudy,64.0
+2021-04-25,8.7,Partly cloudy,58.0
+2021-04-26,6.8,Partly cloudy,56.0
+2021-04-27,7.6,Partly cloudy,64.0
+2021-04-28,9.7,Cloudy,77.0
+2021-04-29,12.3,Overcast,73.0
+2021-04-30,11.6,Partly cloudy,65.0
+2021-05-01,12.0,Partly cloudy,77.0
+2021-05-02,6.3,Moderate rain,92.0
+2021-05-03,8.1,Light rain shower,74.0
+2021-05-04,11.0,Overcast,67.0
+2021-05-05,7.2,Moderate rain,82.0
+2021-05-06,8.8,Overcast,72.0
+2021-05-07,8.3,Light rain shower,75.0
+2021-05-08,10.3,Patchy rain possible,60.0
+2021-05-09,15.3,Partly cloudy,64.0
+2021-05-10,17.7,Sunny,69.0
+2021-05-11,18.4,Cloudy,78.0
+2021-05-12,13.8,Overcast,91.0
+2021-05-13,10.1,Light rain,96.0
+2021-05-14,8.9,Light rain,92.0
+2021-05-15,12.8,Partly cloudy,78.0
+2021-05-16,12.3,Overcast,80.0
+2021-05-17,11.5,Light rain shower,81.0
+2021-05-18,10.4,Patchy rain possible,80.0
+2021-05-19,10.8,Patchy rain possible,77.0
+2021-05-20,10.9,Light rain shower,83.0
+2021-05-21,12.9,Partly cloudy,74.0
+2021-05-22,12.6,Light rain shower,73.0
+2021-05-23,11.4,Light drizzle,76.0
+2021-05-24,14.3,Partly cloudy,76.0
+2021-05-25,11.7,Light rain shower,73.0
+2021-05-26,11.8,Overcast,73.0
+2021-05-27,11.5,Patchy rain possible,78.0
+2021-05-28,11.5,Light rain shower,76.0
+2021-05-29,12.3,Light rain shower,76.0
+2021-05-30,12.5,Sunny,65.0
+2021-05-31,13.2,Patchy rain possible,69.0
+2021-06-01,14.9,Partly cloudy,71.0
+2021-06-02,16.9,Partly cloudy,66.0
+2021-06-03,17.3,Partly cloudy,67.0
+2021-06-04,20.9,Partly cloudy,69.0
+2021-06-05,17.9,Light drizzle,77.0
+2021-06-06,17.1,Patchy rain possible,92.0
+2021-06-07,20.3,Partly cloudy,71.0
+2021-06-08,21.0,Partly cloudy,62.0
+2021-06-09,19.4,Patchy rain possible,77.0
+2021-06-10,20.9,Partly cloudy,68.0
+2021-06-11,20.1,Light rain shower,72.0
+2021-06-12,19.4,Partly cloudy,77.0
+2021-06-13,14.4,Partly cloudy,68.0
+2021-06-14,19.5,Partly cloudy,67.0
+2021-06-15,21.5,Overcast,65.0
+2021-06-16,22.0,Partly cloudy,74.0
+2021-06-17,24.3,Partly cloudy,64.0
+2021-06-18,25.3,Partly cloudy,64.0
+2021-06-19,26.4,Partly cloudy,64.0
+2021-06-20,27.1,Partly cloudy,66.0
+2021-06-21,23.7,Partly cloudy,66.0
+2021-06-22,24.0,Partly cloudy,73.0
+2021-06-23,19.8,Light rain shower,84.0
+2021-06-24,20.7,Patchy rain possible,82.0
+2021-06-25,16.0,Moderate rain,95.0
+2021-06-26,20.2,Partly cloudy,77.0
+2021-06-27,22.1,Partly cloudy,73.0
+2021-06-28,24.9,Partly cloudy,65.0
+2021-06-29,24.3,Partly cloudy,68.0
+2021-06-30,19.4,Moderate or heavy rain shower,87.0
+2021-07-01,17.7,Patchy rain possible,70.0
+2021-07-02,14.7,Light drizzle,91.0
+2021-07-03,20.6,Partly cloudy,71.0
+2021-07-04,18.7,Partly cloudy,75.0
+2021-07-05,20.7,Partly cloudy,73.0
+2021-07-06,23.0,Partly cloudy,70.0
+2021-07-07,21.9,Partly cloudy,76.0
+2021-07-08,18.0,Overcast,86.0
+2021-07-09,19.0,Light rain shower,85.0
+2021-07-10,19.5,Patchy rain possible,74.0
+2021-07-11,21.9,Overcast,67.0
+2021-07-12,25.1,Partly cloudy,64.0
+2021-07-13,26.3,Partly cloudy,67.0
+2021-07-14,20.6,Partly cloudy,80.0
+2021-07-15,18.2,Partly cloudy,76.0
+2021-07-16,21.9,Partly cloudy,70.0
+2021-07-17,21.5,Light rain shower,79.0
+2021-07-18,20.8,Sunny,72.0
+2021-07-19,19.8,Light rain shower,74.0
+2021-07-20,17.4,Cloudy,64.0
+2021-07-21,19.3,Partly cloudy,67.0
+2021-07-22,21.0,Partly cloudy,63.0
+2021-07-23,22.3,Partly cloudy,60.0
+2021-07-24,25.0,Partly cloudy,52.0
+2021-07-25,22.2,Partly cloudy,68.0
+2021-07-26,24.1,Partly cloudy,73.0
+2021-07-27,23.0,Partly cloudy,71.0
+2021-07-28,21.0,Partly cloudy,70.0
+2021-07-29,22.7,Partly cloudy,66.0
+2021-07-30,22.1,Partly cloudy,59.0
+2021-07-31,21.8,Partly cloudy,64.0
+2021-08-01,15.5,Overcast,81.0
+2021-08-02,19.0,Patchy rain possible,74.0
+2021-08-03,20.7,Partly cloudy,68.0
+2021-08-04,18.9,Partly cloudy,69.0
+2021-08-05,15.0,Light drizzle,90.0
+2021-08-06,19.6,Patchy rain possible,70.0
+2021-08-07,21.7,Partly cloudy,68.0
+2021-08-08,18.1,Partly cloudy,74.0
+2021-08-09,20.4,Partly cloudy,68.0
+2021-08-10,21.9,Partly cloudy,67.0
+2021-08-11,21.1,Partly cloudy,66.0
+2021-08-12,23.7,Partly cloudy,54.0
+2021-08-13,25.8,Partly cloudy,59.0
+2021-08-14,25.5,Partly cloudy,60.0
+2021-08-15,25.7,Partly cloudy,54.0
+2021-08-16,22.1,Patchy rain possible,64.0
+2021-08-17,16.9,Patchy light drizzle,65.0
+2021-08-18,16.5,Cloudy,63.0
+2021-08-19,18.3,Overcast,70.0
+2021-08-20,19.3,Partly cloudy,66.0
+2021-08-21,22.5,Partly cloudy,59.0
+2021-08-22,23.4,Partly cloudy,64.0
+2021-08-23,18.3,Cloudy,74.0
+2021-08-24,14.6,Patchy rain possible,80.0
+2021-08-25,17.8,Partly cloudy,63.0
+2021-08-26,15.3,Patchy rain possible,72.0
+2021-08-27,13.7,Patchy rain possible,79.0
+2021-08-28,15.0,Patchy rain possible,79.0
+2021-08-29,14.8,Patchy rain possible,81.0
+2021-08-30,16.4,Light rain shower,75.0
+2021-08-31,13.6,Patchy rain possible,86.0
+2021-09-01,16.4,Cloudy,72.0
+2021-09-02,16.9,Partly cloudy,62.0
+2021-09-03,20.2,Partly cloudy,59.0
+2021-09-04,19.3,Sunny,64.0
+2021-09-05,18.3,Partly cloudy,63.0
+2021-09-06,19.5,Partly cloudy,56.0
+2021-09-07,21.5,Partly cloudy,53.0
+2021-09-08,22.0,Partly cloudy,50.0
+2021-09-09,21.3,Sunny,48.0
+2021-09-10,22.1,Partly cloudy,64.0
+2021-09-11,20.8,Thundery outbreaks possible,76.0
+2021-09-12,20.2,Patchy rain possible,70.0
+2021-09-13,19.8,Partly cloudy,68.0
+2021-09-14,21.0,Partly cloudy,63.0
+2021-09-15,20.8,Partly cloudy,66.0
+2021-09-16,18.1,Light rain shower,84.0
+2021-09-17,16.3,Cloudy,68.0
+2021-09-18,15.9,Cloudy,67.0
+2021-09-19,13.7,Partly cloudy,67.0
+2021-09-20,12.8,Partly cloudy,61.0
+2021-09-21,12.7,Cloudy,60.0
+2021-09-22,11.9,Cloudy,62.0
+2021-09-23,16.5,Partly cloudy,65.0
+2021-09-24,16.9,Partly cloudy,61.0
+2021-09-25,19.3,Partly cloudy,69.0
+2021-09-26,19.6,Partly cloudy,59.0
+2021-09-27,18.1,Cloudy,75.0
+2021-09-28,18.6,Partly cloudy,74.0
+2021-09-29,15.7,Cloudy,81.0
+2021-09-30,12.3,Partly cloudy,57.0
+2021-10-01,13.6,Partly cloudy,56.0
+2021-10-02,15.7,Partly cloudy,66.0
+2021-10-03,14.9,Partly cloudy,62.0
+2021-10-04,15.1,Partly cloudy,74.0
+2021-10-05,17.4,Partly cloudy,73.0
+2021-10-06,13.2,Patchy rain possible,72.0
+2021-10-07,11.3,Cloudy,69.0
+2021-10-08,13.7,Partly cloudy,66.0
+2021-10-09,11.1,Sunny,50.0
+2021-10-10,8.9,Sunny,50.0
+2021-10-11,9.8,Partly cloudy,50.0
+2021-10-12,8.5,Light rain shower,78.0
+2021-10-13,7.2,Partly cloudy,71.0
+2021-10-14,7.2,Overcast,81.0
+2021-10-15,11.1,Sunny,73.0
+2021-10-16,10.3,Partly cloudy,67.0
+2021-10-17,9.3,Sunny,68.0
+2021-10-18,11.6,Partly cloudy,64.0
+2021-10-19,12.4,Partly cloudy,65.0
+2021-10-20,16.3,Sunny,73.0
+2021-10-21,14.1,Patchy rain possible,67.0
+2021-10-22,7.1,Cloudy,62.0
+2021-10-23,8.4,Overcast,63.0
+2021-10-24,9.0,Sunny,64.0
+2021-10-25,7.9,Sunny,66.0
+2021-10-26,9.0,Partly cloudy,65.0
+2021-10-27,10.4,Partly cloudy,77.0
+2021-10-28,12.7,Sunny,68.0
+2021-10-29,11.3,Sunny,57.0
+2021-10-30,9.9,Sunny,68.0
+2021-10-31,13.0,Sunny,60.0
+2021-11-01,10.2,Cloudy,80.0
+2021-11-02,8.5,Patchy rain possible,86.0
+2021-11-03,7.2,Cloudy,83.0
+2021-11-04,7.8,Light drizzle,88.0
+2021-11-05,6.4,Overcast,80.0
+2021-11-06,8.6,Sunny,74.0
+2021-11-07,6.8,Cloudy,76.0
+2021-11-08,6.2,Overcast,76.0
+2021-11-09,5.8,Cloudy,78.0
+2021-11-10,6.4,Sunny,76.0
+2021-11-11,6.6,Sunny,70.0
+2021-11-12,6.9,Sunny,73.0
+2021-11-13,6.5,Overcast,76.0
+2021-11-14,7.2,Patchy rain possible,93.0
+2021-11-15,8.3,Sunny,77.0
+2021-11-16,6.1,Cloudy,83.0
+2021-11-17,7.0,Overcast,80.0
+2021-11-18,7.0,Cloudy,75.0
+2021-11-19,8.7,Overcast,76.0
+2021-11-20,10.3,Overcast,72.0
+2021-11-21,7.1,Sunny,80.0
+2021-11-22,5.4,Partly cloudy,75.0
+2021-11-23,3.0,Sunny,66.0
+2021-11-24,4.3,Sunny,70.0
+2021-11-25,1.5,Sunny,74.0
+2021-11-26,0.9,Overcast,82.0
+2021-11-27,0.1,Overcast,90.0
+2021-11-28,1.4,Cloudy,88.0
+2021-11-29,0.4,Overcast,82.0
+2021-11-30,1.1,Overcast,81.0
+2021-12-01,5.5,Patchy rain possible,84.0
+2021-12-02,3.6,Overcast,72.0
+2021-12-03,0.5,Partly cloudy,71.0
+2021-12-04,0.3,Moderate snow,86.0
+2021-12-05,3.0,Overcast,77.0
+2021-12-06,1.6,Cloudy,77.0
+2021-12-07,0.7,Moderate snow,91.0
+2021-12-08,-0.7,Overcast,86.0
+2021-12-09,-0.0,Overcast,88.0
+2021-12-10,-0.7,Mist,95.0
+2021-12-11,1.1,Overcast,93.0
+2021-12-12,0.0,Cloudy,89.0
+2021-12-13,1.9,Light drizzle,97.0
+2021-12-14,3.8,Overcast,99.0
+2021-12-15,5.8,Sunny,91.0
+2021-12-16,4.9,Cloudy,88.0
+2021-12-17,3.5,Partly cloudy,87.0
+2021-12-18,1.9,Sunny,80.0
+2021-12-19,6.0,Sunny,81.0
+2021-12-20,0.8,Overcast,77.0
+2021-12-21,-0.6,Cloudy,79.0
+2021-12-22,-1.4,Sunny,73.0
+2021-12-23,-2.0,Overcast,69.0
+2021-12-24,5.7,Overcast,82.0
+2021-12-25,-1.4,Heavy snow,91.0
+2021-12-26,-2.8,Overcast,84.0
+2021-12-27,0.3,Light drizzle,98.0
+2021-12-28,-0.8,Overcast,94.0
+2021-12-29,5.4,Light drizzle,92.0
+2021-12-30,9.4,Cloudy,89.0
+2021-12-31,11.0,Sunny,83.0
+2022-01-01,10.4,Overcast,79.0
+2022-01-02,7.5,Partly cloudy,81.0
+2022-01-03,9.6,Overcast,73.0
+2022-01-04,9.5,Light drizzle,82.0
+2022-01-05,4.2,Light snow showers,75.0
+2022-01-06,1.4,Overcast,73.0
+2022-01-07,-0.3,Overcast,75.0
+2022-01-08,0.4,Light snow,79.0
+2022-01-09,2.7,Overcast,82.0
+2022-01-10,0.1,Overcast,86.0
+2022-01-11,-1.2,Sunny,85.0
+2022-01-12,-1.6,Partly cloudy,76.0
+2022-01-13,0.2,Partly cloudy,79.0
+2022-01-14,3.4,Sunny,83.0
